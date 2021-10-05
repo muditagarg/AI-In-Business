@@ -1,2 +1,2 @@
 # AI-In-Business
-AI In Business Class Project
+AI different techniques and projects
