@@ -1,2 +1,2 @@
-# AI-In-Business
+# Associating Learning 
 AI different techniques and projects
